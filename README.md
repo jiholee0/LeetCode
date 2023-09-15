@@ -1,2 +1,2 @@
-# ReetCode
-Coding Test Practice with ReetCode
+# LeetCode
+Coding Test Practice with LeetCode
